@@ -1,0 +1,17 @@
+body{
+    font-family: "Comfortaa", sans-serif;
+    background-color: #FBF7EB;
+}
+
+
+.navbar
+.nav-link{
+    font-size: 13px;
+    color: #D0AA62 !important; 
+}
+
+.nav-link .active{
+    font-weight: 800;
+}
+
+/* hero section */

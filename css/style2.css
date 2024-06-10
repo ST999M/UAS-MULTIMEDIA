@@ -1,0 +1,31 @@
+:root{
+    --pr-color : #D7A869;
+}
+
+body{
+    font-family: "Comfortaa", sans-serif;
+    background-color: #F2EEE8;
+}
+
+.navbar-nav{
+    font-size: 12px;
+}
+
+.d-flex{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+.form-control{
+    color: #D7A869;
+}
+
+.nav-link .active{
+    font-weight:700;
+    color: #483a25 !important;
+}
+
+.nav-link{
+    color: #D7A869!important;
+}
